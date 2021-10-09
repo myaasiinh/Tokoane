@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tokoane</string>
+    <string name="masuk_ke_akunku">Masuk ke akunku</string>
+    <string name="isi_email_dan_katasandi_anda_untuk_masuk_akun">Isi email dan katasandi anda untuk masuk akun</string>
+    <string name="email">Email</string>
+    <string name="katasandi">Katasandi</string>
+    <string name="masuk_akun">Masuk akun</string>
+    <string name="belum_punya_akun_buat_disini">Belum punya akun buat disini</string>
+    <string name="mari_buat_akunku">Mari buat akunku</string>
+    <string name="isi_datamu_diformulir_buat_akun">Isi datamu diformulir buat akun</string>
+    <string name="nama_lengkap">Nama lengkap</string>
+    <string name="konfirm_ulang_katasandi">Konfirm ulang katasandi</string>
+    <string name="buat_akun">Buat akun</string>
+    <string name="sudah_punya_akun_masuk_disini">Sudah punya akun? masuk disini</string>
+    <string name="lokasi_toko">Lokasi toko</string>
+    <string name="keluar_akun">Keluar akun</string>
+
+</resources>
