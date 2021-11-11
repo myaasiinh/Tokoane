@@ -4,6 +4,38 @@ Project Simple Onlineshop/Ecomerce
 
 Warning is still deploying, wait for finishing
 
+tech in this project is :
+
+ 1. Material Library
+
+ 2. Android Jetpack
+
+ 3. SharedPreferences
+ 
+ 4. Recylerview
+ 
+ 5. Toast
+ 
+ 6. Intent
+ 
+ 
+ Feature in this apps :
+
+ 1. Login user
+ 
+ 2. Register user
+
+ 3. Showing Dummy Data
+ 
+ 4. Show detail dummy data
+ 
+ 5. Add Dummy data to Cart / Buy page
+ 
+ 6. Show detail profil
+
+ 7. And Logout user profile
+ 
+
 this is a demo apps
 
 
