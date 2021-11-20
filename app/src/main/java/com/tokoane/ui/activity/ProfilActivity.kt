@@ -25,7 +25,7 @@ class ProfilActivity : AppCompatActivity(R.layout.activity_profile) {
     private lateinit var sp: SharedPreferences
     private lateinit var nameET: MaterialTextView
     lateinit var emailET: MaterialTextView
-    private lateinit var keluarTv: MaterialTextView
+    private lateinit var keluarTv: ImageButton
     private lateinit var lokasiTv: MaterialTextView
 
     @SuppressLint("SetTextI18n")
