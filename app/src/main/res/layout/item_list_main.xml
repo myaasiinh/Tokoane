@@ -40,7 +40,7 @@
             android:layout_marginStart="10dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:textColor="@color/black"
+            android:textColor="@color/orange"
             android:textSize="20sp"
             app:layout_constraintStart_toEndOf="@+id/list_detail_fotoIv"
             app:layout_constraintTop_toTopOf="parent" />

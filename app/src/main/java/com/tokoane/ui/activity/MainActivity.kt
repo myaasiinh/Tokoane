@@ -71,7 +71,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
 
              Product(
                 3,
-                 R.drawable.logo_soto,
+                 R.drawable.sepatu3,
                  "sepatu nike zoom 1 pro limited edition",
                  "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                  "Rp 200, 000"
@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
 
              Product(
                 4,
-                 R.drawable.logo_soto,
+                 R.drawable.sepatu4,
                  "sepatu nike zoom 1 pro limited edition",
                  "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                  "Rp 250, 000"
@@ -90,7 +90,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
 
              Product(
                 5,
-                 R.drawable.logo_soto,
+                 R.drawable.sepatu5,
                  "sepatu nike zoom 1 pro limited edition",
                  "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                  "Rp 350, 000"
@@ -100,7 +100,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
 
              Product(
                 6,
-                 R.drawable.logo_soto,
+                 R.drawable.sepatu6,
                  "sepatu nike zoom 1 pro limited edition",
                  "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                  "Rp 300, 000, 000, 000"
@@ -110,7 +110,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
 
              Product(
                 7,
-                 R.drawable.logo_soto,
+                 R.drawable.sepatu7,
                  "sepatu nike zoom 1 pro limited edition",
                  "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                  "Rp 450, 000"
@@ -120,7 +120,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
 
              Product(
                 8,
-                 R.drawable.logo_soto,
+                 R.drawable.sepatu8,
                  "sepatu nike zoom 1 pro limited edition",
                  "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                  "Rp 400, 000"
@@ -130,7 +130,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
 
              Product(
                 9,
-                 R.drawable.logo_soto,
+                 R.drawable.sepatu9,
                  "sepatu nike zoom 1 pro limited edition",
                  "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                  "Rp 550, 000"
@@ -139,7 +139,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
 
              Product(
                 10,
-                 R.drawable.logo_soto,
+                 R.drawable.sepatu10,
                  "sepatu nike zoom 1 pro limited edition",
                  "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                  "Rp 500, 000"
@@ -147,88 +147,39 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
                 ),
             Product(
                 11,
-                R.drawable.logo_soto,
+                R.drawable.sepatu11,
                 "sepatu nike zoom 1 pro limited edition",
                 "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                 "Rp 650, 000"
             ),
             Product(
                 12,
-                R.drawable.logo_soto,
+                R.drawable.sepatu12,
                 "sepatu nike zoom 1 pro limited edition",
                 "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                 "Rp 600, 000"
             ),
             Product(
                 13,
-                R.drawable.logo_soto,
+                R.drawable.sepatu13,
                 "sepatu nike zoom 1 pro limited edition",
                 "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                 "Rp 700, 000"
                 ),
             Product(
                 14,
-                R.drawable.logo_soto,
+                R.drawable.sepatu14,
                 "sepatu nike zoom 1 pro limited edition",
                 "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                 "Rp 750, 000"
                 ),
             Product(
                 15,
-                R.drawable.logo_soto,
+                R.drawable.sepatu15,
                 "sepatu nike zoom 1 pro limited edition",
                 "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
                 "Rp 850, 000"
             ),
-            Product(
-                16,
-                R.drawable.logo_soto,
-                "sepatu nike zoom 1 pro limited edition",
-                "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
-                "Rp 800, 000"
-            ),
-            Product(
-                17,
-                R.drawable.logo_soto,
-                "sepatu nike zoom 1 pro limited edition",
-                "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
-                "Rp 950, 000"
-            ),
-            Product(
-                16,
-                R.drawable.logo_soto,
-                "sepatu nike zoom 1 pro limited edition",
-                "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
-                "Rp 1.500, 000"
-            ),
-            Product(
-                17,
-                R.drawable.logo_soto,
-                "sepatu nike zoom 1 pro limited edition",
-                "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
-                "Rp 1.000, 000"
-            ),
-            Product(
-                18,
-                R.drawable.logo_soto,
-                "sepatu nike zoom 1 pro limited edition",
-                "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
-                "Rp 2.000, 000"
-            ),
-            Product(
-                19,
-                R.drawable.logo_soto,
-                "sepatu nike zoom 1 pro limited edition",
-                "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
-                "Rp 2.500, 000"
-            ),
-            Product(
-                20,
-                R.drawable.logo_soto,
-                "sepatu nike zoom 1 pro limited edition",
-                "sepatu nike zoom warna merah ukuran xl untuk anak laki - laki atau bisa juga untuk remaja berusia dua belas tahun oke dehhh",
-                "Rp 3.000, 000"
-            )
 
             )
 
