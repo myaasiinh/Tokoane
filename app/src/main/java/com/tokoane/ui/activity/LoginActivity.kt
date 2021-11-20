@@ -16,7 +16,7 @@ class LoginActivity : AppCompatActivity(R.layout.login_auth) {
 
     private var password: TextInputEditText? = null
     private var email: TextInputEditText? = null
-    private lateinit var loginBtn: MaterialButton
+    private lateinit var loginBtn: ImageButton
     private lateinit var  sharedPreferences: SharedPreferences
 
     companion object{

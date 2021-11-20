@@ -28,6 +28,7 @@
         android:layout_marginEnd="80dp"
         android:text="@string/isi_email_dan_katasandi_anda_untuk_masuk_akun"
         android:textSize="15sp"
+        android:textColor="@color/orange"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/login_akunkuTv" />
@@ -40,6 +41,7 @@
         android:layout_marginTop="10dp"
         android:background="@drawable/icon_outline_textinput"
         android:hint="@string/email"
+        android:textColorHint="@color/green"
         android:inputType="textEmailAddress"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -57,6 +59,7 @@
         android:background="@drawable/icon_outline_textinput"
         android:layout_marginTop="10dp"
         android:hint="@string/katasandi"
+        android:textColorHint="@color/green"
         android:inputType="textPassword"
         android:textSize="20sp"
         android:focusable="true"
@@ -72,22 +75,17 @@
         app:boxStrokeWidthFocused="2dp"
         app:boxStrokeWidth="1dp" />
 
-    <com.google.android.material.button.MaterialButton
+    <ImageButton
         android:id="@+id/login_btnTv"
         android:layout_width="300dp"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_marginTop="20dp"
-        android:paddingTop="5dp"
-        android:paddingBottom="5dp"
-        android:paddingHorizontal="90dp"
         android:background="@drawable/login_buttonbg"
-        android:text="@string/masuk_akun"
-        android:textSize="15sp"
-        android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/password_loginEt" />
+        app:layout_constraintTop_toBottomOf="@+id/password_loginEt"
+        android:contentDescription="TODO" />
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/daftar_disiniTv"
@@ -95,7 +93,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:text="@string/belum_punya_akun_buat_disini"
-        android:textColor="@color/black"
+        android:textColor="@color/orange"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

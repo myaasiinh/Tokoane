@@ -48,7 +48,7 @@
             android:paddingHorizontal="20dp"
             android:paddingVertical="5dp"
             android:text="@string/lokasi_toko"
-            android:textColor="@color/white"
+            android:textColor="@color/yellow"
             android:textSize="30sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -61,8 +61,9 @@
             android:layout_marginTop="20dp"
             android:layout_marginStart="20dp"
             android:text="@string/nama_lengkap"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:textSize="25sp"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/lokasitokoTv" />
 
@@ -94,8 +95,9 @@
             android:layout_marginTop="5dp"
             android:layout_marginStart="20dp"
             android:text="@string/email"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:textSize="25sp"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/fullnameProfilEt" />
 
@@ -120,17 +122,14 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/emailProfilTv" />
 
-        <com.google.android.material.textview.MaterialTextView
+        <ImageButton
             android:id="@+id/keluarTv"
             android:layout_width="200dp"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_marginTop="10dp"
             android:paddingHorizontal="30dp"
             android:paddingVertical="10dp"
             android:background="@drawable/keluar_account_button"
-            android:text="@string/keluar_akun"
-            android:textColor="@color/white"
-            android:textSize="25sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

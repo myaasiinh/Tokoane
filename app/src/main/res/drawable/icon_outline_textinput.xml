@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="366dp"
+    android:height="70dp"
+    android:viewportWidth="366"
+    android:viewportHeight="70"
+    tools:ignore="VectorRaster">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:strokeColor="#FF71DFE7"
+        android:strokeWidth="3"
+        android:pathData="M1.5 15c0-7.46 6.04-13.5 13.5-13.5h336c7.46 0 13.5 6.04 13.5 13.5v40c0 7.46-6.04 13.5-13.5 13.5h-336c-7.46 0-13.5-6.04-13.5-13.5z"/>
+</vector>

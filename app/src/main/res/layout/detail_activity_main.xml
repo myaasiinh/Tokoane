@@ -22,9 +22,10 @@
 
     <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/photo_productSv"
-        android:layout_width="wrap_content"
+        android:layout_width="300dp"
         android:layout_height="250dp"
         android:layout_marginBottom="180dp"
+        android:background="@drawable/logo_soto"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -49,7 +50,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:text="sepatu nike zoom 1 pro limited edition"
-        android:textColor="@color/black"
+        android:textColor="@color/orange"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

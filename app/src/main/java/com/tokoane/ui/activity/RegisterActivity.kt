@@ -16,7 +16,7 @@ class RegisterActivity : AppCompatActivity(R.layout.register_auth) {
     private var email: TextInputEditText? = null
     private var password: TextInputEditText? = null
     private var conFirmPassword: TextInputEditText? = null
-    private lateinit var signUpBtn: MaterialButton
+    private lateinit var signUpBtn: ImageButton
 
     public override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

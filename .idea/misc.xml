@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_buybutton_listdetaicart.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_card_detailbucket.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_card_reg.xml" value="0.146875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_cardfoto_item_listmain.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_cardprofil.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_detailhome.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_detailprofile.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_item_list_main.xml" value="0.1125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_login.xml" value="0.14536082474226805" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/bg_splashscreen.xml" value="0.18" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/button_buat_akun.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/buttoncart.xml" value="0.14536082474226805" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/buttonprofil.xml" value="0.14536082474226805" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/icon_backbtn.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/icon_buy.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/icon_email.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/icon_home.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/icon_outline_textinput.xml" value="0.146875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/icon_user.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/keluar_account_button.xml" value="0.1125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/list_detail_cart.xml" value="0.1125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/login_buttonbg.xml" value="0.1125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/logo_home.xml" value="0.67" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/logo_tokoane.xml" value="0.14536082474226805" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/drawable/outline_textinput.xml" value="0.1125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-1080x1920/detail_activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-1080x2160/detail_activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-1080x2220/detail_activity_main.xml" value="0.17657657657657658" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-1080x2280/detail_activity_main.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-1080x2340/detail_activity_main.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-1440x2340/detail_activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-1440x2560/detail_activity_main.xml" value="0.153125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-1440x2960/detail_activity_main.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-1440x3040/detail_activity_main.xml" value="0.12894736842105264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-480x800/detail_activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-720x1280/detail_activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-720x1500/detail_activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-720x1520/detail_activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-hdpi/detail_activity_main.xml" value="0.153125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-large/detail_activity_main.xml" value="0.153125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-normal/detail_activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-small/detail_activity_main_small.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-xhdpi/detail_activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-xxhdpi/detail_activity_main.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout-xxxhdpi/detail_activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout/activity_cart.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout/activity_profile.xml" value="0.21" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout/detail_activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout/item_list_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout/login_auth.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout/register_auth.xml" value="0.21" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Tokoane-master/app/src/main/res/layout/splashscreen.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
