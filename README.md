@@ -2,8 +2,6 @@
 
 Project Simple Onlineshop/Ecomerce
 
-Warning is still deploying, wait for finishing
-
 tech in this project is :
 
  1. Material Library
